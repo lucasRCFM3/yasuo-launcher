@@ -9,9 +9,26 @@
     "version": "STEAM",
     "fixType": "OnlineFix",
     "onlineCrackUrl": "https://www.mediafire.com/file/0rjpryx9uk0wd7b/RAFT_ON_CRACK.7z/file",
-    "onlineCrackFiles": [],
+    "onlineCrackFiles": [
+      "Custom.dll",
+      "dlllist.txt",
+      "OnlineFix.ini",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "Raft_Data\\Managed\\PlayFab.dll",
+      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "SteamOverlay64.dll",
+      "StubDRM64.dll",
+      "winmm.dll"
+    ],
     "offlineCrackUrl": "https://www.mediafire.com/file/2t8ut0j5c7tezq1/RAFT_OFF_CRACK.7z/file",
-    "offlineCrackFiles": [],
+    "offlineCrackFiles": [
+      "steam_settings\\stats.txt",
+      "Raft_Data\\Managed\\PlayFab.dll",
+      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "steam_appid.txt",
+      "steam_settings\\achievements.json"
+    ],
     "size": 5797222400,
     "savePaths": [
       "C:\\abracadabra"
