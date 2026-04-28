@@ -1,5 +1,6 @@
 [
   {
+    "unique_id": "268910_STEAM_20241530",
     "name": "Cuphead",
     "app_id": "268910",
     "banner_url": "https://static.wikia.nocookie.net/liberproeliis/images/2/20/Cuphead_%28Logo%29.jpg/revision/latest?cb=20180408211916&path-prefix=pt-br",
@@ -194,10 +195,10 @@
       "https://www.mediafire.com/file/0durdfc7yolx2b1/chunk_97.zed/file",
       "https://www.mediafire.com/file/faw3gsctumae39x/chunk_98.zed/file",
       "https://www.mediafire.com/file/24roycvug2uslxe/chunk_99.zed/file"
-    ],
-    "unique_id": "268910_STEAM_20241530"
+    ]
   },
   {
+    "unique_id": "949230_1.5.6f1_22230302",
     "name": "Cities Skylines II Ultimate Edition",
     "app_id": "949230",
     "banner_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
@@ -3334,7 +3335,6 @@
       "https://www.mediafire.com/file/avsfj77t32n534z/chunk_3124.dat/file",
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
-    ],
-    "unique_id": "949230_1.5.6f1_22230302"
+    ]
   }
 ]
