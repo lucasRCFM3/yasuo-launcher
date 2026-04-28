@@ -1,14 +1,9 @@
 [
   {
-    "uniqueId": "268910_STEAM_20241530",
-    "name": "Cuphead",
     "appId": "268910",
     "bannerUrl": "https://static.wikia.nocookie.net/liberproeliis/images/2/20/Cuphead_%28Logo%29.jpg/revision/latest?cb=20180408211916&path-prefix=pt-br",
-    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
     "buildId": "20241530",
-    "version": "STEAM",
-    "size": 5797222400,
-    "manifestUrl": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
     "links": [
       "https://www.mediafire.com/file/y7txa505s683lbh/chunk_0.zed/file",
       "https://www.mediafire.com/file/qmh8x9q1zs69ero/chunk_1.zed/file",
@@ -195,18 +190,18 @@
       "https://www.mediafire.com/file/0durdfc7yolx2b1/chunk_97.zed/file",
       "https://www.mediafire.com/file/faw3gsctumae39x/chunk_98.zed/file",
       "https://www.mediafire.com/file/24roycvug2uslxe/chunk_99.zed/file"
-    ]
+    ],
+    "manifestUrl": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
+    "name": "Cuphead",
+    "size": 5797222400,
+    "uniqueId": "268910_STEAM_20241530",
+    "version": "STEAM"
   },
   {
-    "uniqueId": "949230_1.5.6f1_22230302",
-    "name": "Cities Skylines II",
     "appId": "949230",
     "bannerUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
-    "iconUrl": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
     "buildId": "22230302",
-    "version": "1.5.6f1",
-    "size": 98365333144,
-    "manifestUrl": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
+    "iconUrl": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
     "links": [
       "https://www.mediafire.com/file/120qa5e2ounsa2v/chunk_0.dat/file",
       "https://www.mediafire.com/file/me0yike514kg8wb/chunk_1.dat/file",
@@ -3335,18 +3330,18 @@
       "https://www.mediafire.com/file/avsfj77t32n534z/chunk_3124.dat/file",
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
-    ]
+    ],
+    "manifestUrl": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
+    "name": "Cities Skylines II",
+    "size": 98365333144,
+    "uniqueId": "949230_1.5.6f1_22230302",
+    "version": "1.5.6f1"
   },
   {
-    "uniqueId": "1778820_3.00.00_22372374",
-    "name": "Tekken 8",
     "appId": "1778820",
     "bannerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/f69b0f7c35aa8c966d9ff74c2bae548dbea072e4/header.jpg?t=1770678135",
-    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "buildId": "22372374",
-    "version": "3.00.00",
-    "size": 124333582741,
-    "manifestUrl": "https://www.mediafire.com/file/59suj9w33z2kc3n/DJSADASGD.7z/file",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "links": [
       "https://www.mediafire.com/file/u2khtnj1xauflv8/chunk_0.dat/file",
       "https://www.mediafire.com/file/4vx035su9f29lja/chunk_1.dat/file",
@@ -7301,18 +7296,18 @@
       "https://www.mediafire.com/file/lftmt2dx48ouu2n/chunk_3950.dat/file",
       "https://www.mediafire.com/file/wzvwsfqo92a5gnr/chunk_3951.dat/file",
       "https://www.mediafire.com/file/jodexjsoiobaxv1/chunk_3952.dat/file"
-    ]
+    ],
+    "manifestUrl": "https://www.mediafire.com/file/59suj9w33z2kc3n/DJSADASGD.7z/file",
+    "name": "Tekken 8",
+    "size": 124333582741,
+    "uniqueId": "1778820_3.00.00_22372374",
+    "version": "3.00.00"
   },
   {
-    "uniqueId": "1778820_STEAM_22808554",
-    "name": "Tekken 8",
     "appId": "1778820",
     "bannerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/f69b0f7c35aa8c966d9ff74c2bae548dbea072e4/header.jpg?t=1770678135",
-    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "buildId": "22808554",
-    "version": "STEAM",
-    "size": 0,
-    "manifestUrl": "https://www.mediafire.com/file/2carryyw2nozwez/DSNAJ.7z/file",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "links": [
       "https://www.mediafire.com/file/voonlk4wg4yknm0/chunk_0.dat/file",
       "https://www.mediafire.com/file/jmfo70rlp1woavm/chunk_1.dat/file",
@@ -11629,6 +11624,11 @@
       "https://www.mediafire.com/file/bmnfrzghw94m9h9/chunk_4312.dat/file",
       "https://www.mediafire.com/file/8yo16ok01juyzav/chunk_4313.dat/file",
       "https://www.mediafire.com/file/fpu2xzke0z5dg0n/chunk_4314.dat/file"
-    ]
+    ],
+    "manifestUrl": "https://www.mediafire.com/file/2carryyw2nozwez/DSNAJ.7z/file",
+    "name": "Tekken 8",
+    "size": 135709319241,
+    "uniqueId": "1778820_STEAM_22808554",
+    "version": "STEAM"
   }
 ]
