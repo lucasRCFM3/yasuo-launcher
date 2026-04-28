@@ -3336,5 +3336,17 @@
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
     ]
+  },
+  {
+    "unique_id": "2001120_FITGIRL_18353366",
+    "name": "Split Fiction",
+    "app_id": "2001120",
+    "banner_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BpuV_Clqgr8GysV7wpHISJnrhvfCUPddrg&s",
+    "icon_url": "https://cdn2.steamgriddb.com/icon_thumb/bf5bd9c21d578054f139dc2709a7a441.png",
+    "build_id": "18353366",
+    "version": "FITGIRL",
+    "size": null,
+    "manifest_url": "",
+    "links": []
   }
 ]
