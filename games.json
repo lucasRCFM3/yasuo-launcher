@@ -7,6 +7,7 @@
     "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
     "buildId": "20241530",
     "version": "STEAM",
+    "fixType": "Hypervisor",
     "size": 5797222400,
     "savePaths": [
       "C:\\abracadabra"
@@ -198,8 +199,7 @@
       "https://www.mediafire.com/file/0durdfc7yolx2b1/chunk_97.zed/file",
       "https://www.mediafire.com/file/faw3gsctumae39x/chunk_98.zed/file",
       "https://www.mediafire.com/file/24roycvug2uslxe/chunk_99.zed/file"
-    ],
-    "fixType": "Hypervisor"
+    ]
   },
   {
     "uniqueId": "949230_1.5.6f1_22230302",
@@ -209,6 +209,7 @@
     "iconUrl": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
     "buildId": "22230302",
     "version": "1.5.6f1",
+    "fixType": "",
     "size": 98365333144,
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
@@ -3340,8 +3341,7 @@
       "https://www.mediafire.com/file/avsfj77t32n534z/chunk_3124.dat/file",
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
-    ],
-    "fixType": ""
+    ]
   },
   {
     "uniqueId": "1778820_3.00.00_22372374",
@@ -3351,6 +3351,7 @@
     "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "buildId": "22372374",
     "version": "3.00.00",
+    "fixType": "",
     "size": 124333582741,
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/59suj9w33z2kc3n/DJSADASGD.7z/file",
@@ -7308,8 +7309,7 @@
       "https://www.mediafire.com/file/lftmt2dx48ouu2n/chunk_3950.dat/file",
       "https://www.mediafire.com/file/wzvwsfqo92a5gnr/chunk_3951.dat/file",
       "https://www.mediafire.com/file/jodexjsoiobaxv1/chunk_3952.dat/file"
-    ],
-    "fixType": ""
+    ]
   },
   {
     "uniqueId": "1778820_STEAM_22808554",
@@ -7319,6 +7319,7 @@
     "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
     "buildId": "22808554",
     "version": "STEAM",
+    "fixType": "",
     "size": 135709319241,
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/2carryyw2nozwez/DSNAJ.7z/file",
@@ -11638,8 +11639,7 @@
       "https://www.mediafire.com/file/bmnfrzghw94m9h9/chunk_4312.dat/file",
       "https://www.mediafire.com/file/8yo16ok01juyzav/chunk_4313.dat/file",
       "https://www.mediafire.com/file/fpu2xzke0z5dg0n/chunk_4314.dat/file"
-    ],
-    "fixType": ""
+    ]
   },
   {
     "uniqueId": "976310_0.384_8418155",
@@ -11649,6 +11649,7 @@
     "iconUrl": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Mortal_kombat_logo.png",
     "buildId": "8418155",
     "version": "0.384",
+    "fixType": "",
     "size": 155540989900,
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/rtvztxffshrz1wx/BCSA.7z/file",
@@ -16598,7 +16599,6 @@
       "https://www.mediafire.com/file/2pq7oi7ukfvsru5/chunk_4942.dat/file",
       "https://www.mediafire.com/file/ic02dh069c7397n/chunk_4943.dat/file",
       "https://www.mediafire.com/file/3gsi09bixcznzun/chunk_4944.dat/file"
-    ],
-    "fixType": ""
+    ]
   }
 ]
