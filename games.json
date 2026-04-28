@@ -198,7 +198,8 @@
       "https://www.mediafire.com/file/0durdfc7yolx2b1/chunk_97.zed/file",
       "https://www.mediafire.com/file/faw3gsctumae39x/chunk_98.zed/file",
       "https://www.mediafire.com/file/24roycvug2uslxe/chunk_99.zed/file"
-    ]
+    ],
+    "fixType": "Hypervisor"
   },
   {
     "uniqueId": "949230_1.5.6f1_22230302",
@@ -3339,7 +3340,8 @@
       "https://www.mediafire.com/file/avsfj77t32n534z/chunk_3124.dat/file",
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
-    ]
+    ],
+    "fixType": ""
   },
   {
     "uniqueId": "1778820_3.00.00_22372374",
@@ -7306,7 +7308,8 @@
       "https://www.mediafire.com/file/lftmt2dx48ouu2n/chunk_3950.dat/file",
       "https://www.mediafire.com/file/wzvwsfqo92a5gnr/chunk_3951.dat/file",
       "https://www.mediafire.com/file/jodexjsoiobaxv1/chunk_3952.dat/file"
-    ]
+    ],
+    "fixType": ""
   },
   {
     "uniqueId": "1778820_STEAM_22808554",
@@ -11635,7 +11638,8 @@
       "https://www.mediafire.com/file/bmnfrzghw94m9h9/chunk_4312.dat/file",
       "https://www.mediafire.com/file/8yo16ok01juyzav/chunk_4313.dat/file",
       "https://www.mediafire.com/file/fpu2xzke0z5dg0n/chunk_4314.dat/file"
-    ]
+    ],
+    "fixType": ""
   },
   {
     "uniqueId": "976310_0.384_8418155",
@@ -16594,6 +16598,7 @@
       "https://www.mediafire.com/file/2pq7oi7ukfvsru5/chunk_4942.dat/file",
       "https://www.mediafire.com/file/ic02dh069c7397n/chunk_4943.dat/file",
       "https://www.mediafire.com/file/3gsi09bixcznzun/chunk_4944.dat/file"
-    ]
+    ],
+    "fixType": ""
   }
 ]
