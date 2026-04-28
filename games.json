@@ -7,28 +7,11 @@
     "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
     "buildId": "20241530",
     "version": "STEAM",
-    "fixType": "OnlineFix",
+    "fixType": "",
     "onlineCrackUrl": "https://www.mediafire.com/file/0rjpryx9uk0wd7b/RAFT_ON_CRACK.7z/file",
-    "onlineCrackFiles": [
-      "Custom.dll",
-      "dlllist.txt",
-      "OnlineFix.ini",
-      "OnlineFix.url",
-      "OnlineFix64.dll",
-      "Raft_Data\\Managed\\PlayFab.dll",
-      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
-      "SteamOverlay64.dll",
-      "StubDRM64.dll",
-      "winmm.dll"
-    ],
+    "onlineCrackFiles": [],
     "offlineCrackUrl": "https://www.mediafire.com/file/2t8ut0j5c7tezq1/RAFT_OFF_CRACK.7z/file",
-    "offlineCrackFiles": [
-      "steam_settings\\stats.txt",
-      "Raft_Data\\Managed\\PlayFab.dll",
-      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
-      "steam_appid.txt",
-      "steam_settings\\achievements.json"
-    ],
+    "offlineCrackFiles": [],
     "size": 5797222400,
     "savePaths": [
       "C:\\abracadabra"
