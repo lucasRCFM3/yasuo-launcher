@@ -1,1 +1,1 @@
-version 0.2.7, link: https://github.com/lucasRCFM3/yasuo-launcher/releases/download/v0.2.7/WindInstaller.exe
+version 0.2.8, link: https://github.com/lucasRCFM3/yasuo-launcher/releases/download/v0.2.8/WindInstaller.exe
