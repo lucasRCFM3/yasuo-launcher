@@ -1,14 +1,14 @@
 [
   {
-    "unique_id": "268910_STEAM_20241530",
+    "uniqueId": "268910_STEAM_20241530",
     "name": "Cuphead",
-    "app_id": "268910",
-    "banner_url": "https://static.wikia.nocookie.net/liberproeliis/images/2/20/Cuphead_%28Logo%29.jpg/revision/latest?cb=20180408211916&path-prefix=pt-br",
-    "icon_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
-    "build_id": "20241530",
+    "appId": "268910",
+    "bannerUrl": "https://static.wikia.nocookie.net/liberproeliis/images/2/20/Cuphead_%28Logo%29.jpg/revision/latest?cb=20180408211916&path-prefix=pt-br",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
+    "buildId": "20241530",
     "version": "STEAM",
     "size": 5797222400,
-    "manifest_url": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
+    "manifestUrl": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
     "links": [
       "https://www.mediafire.com/file/y7txa505s683lbh/chunk_0.zed/file",
       "https://www.mediafire.com/file/qmh8x9q1zs69ero/chunk_1.zed/file",
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "unique_id": "949230_1.5.6f1_22230302",
+    "uniqueId": "949230_1.5.6f1_22230302",
     "name": "Cities Skylines II Ultimate Edition",
-    "app_id": "949230",
-    "banner_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
-    "icon_url": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
-    "build_id": "22230302",
+    "appId": "949230",
+    "bannerUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
+    "iconUrl": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
+    "buildId": "22230302",
     "version": "1.5.6f1",
     "size": 98365333144,
-    "manifest_url": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
+    "manifestUrl": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
     "links": [
       "https://www.mediafire.com/file/120qa5e2ounsa2v/chunk_0.dat/file",
       "https://www.mediafire.com/file/me0yike514kg8wb/chunk_1.dat/file",
@@ -3338,15 +3338,15 @@
     ]
   },
   {
-    "unique_id": "2001120_FITGIRL_18353366",
+    "uniqueId": "2001120_FITGIRL_18353366",
     "name": "Split Fiction",
-    "app_id": "2001120",
-    "banner_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BpuV_Clqgr8GysV7wpHISJnrhvfCUPddrg&s",
-    "icon_url": "https://cdn2.steamgriddb.com/icon_thumb/bf5bd9c21d578054f139dc2709a7a441.png",
-    "build_id": "18353366",
+    "appId": "2001120",
+    "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BpuV_Clqgr8GysV7wpHISJnrhvfCUPddrg&s",
+    "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/bf5bd9c21d578054f139dc2709a7a441.png",
+    "buildId": "18353366",
     "version": "FITGIRL",
     "size": null,
-    "manifest_url": "",
+    "manifestUrl": "",
     "links": []
   }
 ]
