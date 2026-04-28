@@ -1,11 +1,13 @@
 [
   {
+    "name": "Cuphead",
     "app_id": "268910",
     "banner_url": "https://static.wikia.nocookie.net/liberproeliis/images/2/20/Cuphead_%28Logo%29.jpg/revision/latest?cb=20180408211916&path-prefix=pt-br",
-    "build_id": "20241530",
-    "description": "",
-    "developer": "",
     "icon_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpauuz-5fc2a9c6-8d45-439d-99e4-95b4b31a0b4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXV1ei01ZmMyYTljNi04ZDQ1LTQzOWQtOTllNC05NWI0YjMxYTBiNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MncHuhn1lJPYpUstoLj8IoXpGpGKe3pi83ypbADftUs",
+    "build_id": "20241530",
+    "version": "STEAM",
+    "size": 5797222400,
+    "manifest_url": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
     "links": [
       "https://www.mediafire.com/file/y7txa505s683lbh/chunk_0.zed/file",
       "https://www.mediafire.com/file/qmh8x9q1zs69ero/chunk_1.zed/file",
@@ -192,21 +194,17 @@
       "https://www.mediafire.com/file/0durdfc7yolx2b1/chunk_97.zed/file",
       "https://www.mediafire.com/file/faw3gsctumae39x/chunk_98.zed/file",
       "https://www.mediafire.com/file/24roycvug2uslxe/chunk_99.zed/file"
-    ],
-    "manifest_url": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
-    "name": "Cuphead",
-    "release_date": "",
-    "size": 5797222400,
-    "status": "",
-    "version": "STEAM"
+    ]
   },
   {
+    "name": "Cities Skylines II Ultimate Edition",
     "app_id": "949230",
     "banner_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
-    "build_id": "22230302",
-    "description": "",
-    "developer": "",
     "icon_url": "https://cdn2.steamgriddb.com/icon/ed21131873cfcb1eec8587489403ce7a.png",
+    "build_id": "22230302",
+    "version": "1.5.6f1",
+    "size": 98365333144,
+    "manifest_url": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
     "links": [
       "https://www.mediafire.com/file/120qa5e2ounsa2v/chunk_0.dat/file",
       "https://www.mediafire.com/file/me0yike514kg8wb/chunk_1.dat/file",
@@ -3335,12 +3333,6 @@
       "https://www.mediafire.com/file/avsfj77t32n534z/chunk_3124.dat/file",
       "https://www.mediafire.com/file/ddul0rcgdbgfilv/chunk_3125.dat/file",
       "https://www.mediafire.com/file/ln8p77o5a8ahy6f/chunk_3126.dat/file"
-    ],
-    "manifest_url": "https://www.mediafire.com/file/cn9amtzla2mkgwl/manifest.json/file",
-    "name": "Cities Skylines II Ultimate Edition",
-    "release_date": "",
-    "size": 98365333144,
-    "status": "",
-    "version": "1.5.6f1"
+    ]
   }
 ]
