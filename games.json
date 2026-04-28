@@ -8,7 +8,9 @@
     "buildId": "20241530",
     "version": "STEAM",
     "size": 5797222400,
-    "savePaths": [],
+    "savePaths": [
+      "C:\\abracadabra"
+    ],
     "manifestUrl": "https://www.mediafire.com/file/ncv0mxj90cdzk8r/manifest.json/file",
     "links": [
       "https://www.mediafire.com/file/y7txa505s683lbh/chunk_0.zed/file",
