@@ -16956,7 +16956,9 @@
     "offlineCrackUrl": "",
     "offlineCrackFiles": [],
     "size": null,
-    "savePaths": [],
+    "savePaths": [
+      "%USERPROFILE%\\Documents\\Marvel's Spider-Man 2"
+    ],
     "manifestUrl": "",
     "links": []
   },
