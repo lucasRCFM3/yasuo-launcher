@@ -16905,5 +16905,23 @@
     "savePaths": [],
     "manifestUrl": "",
     "links": []
+  },
+  {
+    "uniqueId": "1817070_3.618_14752622",
+    "appId": "1817070",
+    "name": "Marvel's Spider-Man Remastered",
+    "bannerUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/df9qen3-1f9b2ccc-b91b-44ed-813e-8b3780c4f2a2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGY5cWVuMy0xZjliMmNjYy1iOTFiLTQ0ZWQtODEzZS04YjM3ODBjNGYyYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lJR4Fnn9QXt9w5Eh2Z5ZbNGg9vsH6KpHsj4biT85Adg",
+    "buildId": "14752622",
+    "version": "3.618",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "",
+    "links": []
   }
 ]
