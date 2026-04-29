@@ -16959,5 +16959,23 @@
     "savePaths": [],
     "manifestUrl": "",
     "links": []
+  },
+  {
+    "uniqueId": "1222140_FITGIRL_5165159",
+    "appId": "1222140",
+    "name": "Detroit Become Human",
+    "bannerUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_616x353.jpg?t=1667468479",
+    "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/ddzve6e-77014cf9-e411-4d72-adf2-7656b80e2026.png/v1/fill/w_512,h_512/detroit___become_human_icon_by_andonovmarko_ddzve6e-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZHp2ZTZlLTc3MDE0Y2Y5LWU0MTEtNGQ3Mi1hZGYyLTc2NTZiODBlMjAyNi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5TeyqU3LHw4CPcEUTiALMni6vN7oOMiFtD-iJgxip6E",
+    "buildId": "5165159",
+    "version": "FITGIRL",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "",
+    "links": []
   }
 ]
