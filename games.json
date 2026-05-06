@@ -2504,5 +2504,22 @@
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/3odwuvp2tex61x8/7cj3.7z/file",
     "links": []
+  },
+  {
+    "appId": "268910",
+    "name": "Cuphead",
+    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/library_600x900.jpg",
+    "buildId": "",
+    "version": "",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "",
+    "links": []
   }
 ]
