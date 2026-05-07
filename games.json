@@ -16545,24 +16545,5 @@
       "https://www.mediafire.com/file/grg7irv1utb4l0n/chunk_636.dat/file",
       "https://www.mediafire.com/file/5ybn6zt0ubsebve/chunk_637.dat/file"
     ]
-  },
-  {
-    "uniqueId": "3405690__",
-    "appId": "880940",
-    "name": "Pummel Party",
-    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/header.jpg",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/library_600x900.jpg",
-    "buildId": "20246854",
-    "version": "STEAM",
-    "exeName": "",
-    "fixType": "",
-    "onlineCrackUrl": "",
-    "onlineCrackFiles": [],
-    "offlineCrackUrl": "",
-    "offlineCrackFiles": [],
-    "size": null,
-    "savePaths": [],
-    "manifestUrl": "https://www.mediafire.com/file/32t9bzgguhjjedf/q0io.7z/file",
-    "links": []
   }
 ]
