@@ -681,7 +681,7 @@
     "buildId": "22217350",
     "version": "STEAM",
     "exeName": "No Time to Relax.exe",
-    "fixType": "",
+    "fixType": "OnlineFix",
     "onlineCrackUrl": "",
     "onlineCrackFiles": [],
     "offlineCrackUrl": "",
