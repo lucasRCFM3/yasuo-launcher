@@ -16916,12 +16916,13 @@
     ]
   },
   {
+    "uniqueId": "3405690__",
     "appId": "880940",
     "name": "Pummel Party",
     "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/header.jpg",
     "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/library_600x900.jpg",
-    "buildId": "",
-    "version": "",
+    "buildId": "20246854",
+    "version": "STEAM",
     "fixType": "",
     "onlineCrackUrl": "",
     "onlineCrackFiles": [],
@@ -16929,7 +16930,7 @@
     "offlineCrackFiles": [],
     "size": null,
     "savePaths": [],
-    "manifestUrl": "",
+    "manifestUrl": "https://www.mediafire.com/file/32t9bzgguhjjedf/q0io.7z/file",
     "links": []
   }
 ]
