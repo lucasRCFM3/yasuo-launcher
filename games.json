@@ -16560,5 +16560,23 @@
       "https://www.mediafire.com/file/grg7irv1utb4l0n/chunk_636.dat/file",
       "https://www.mediafire.com/file/5ybn6zt0ubsebve/chunk_637.dat/file"
     ]
+  },
+  {
+    "uniqueId": "829660__",
+    "appId": "829660",
+    "name": "No Time to Relax",
+    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/header.jpg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/library_600x900.jpg",
+    "buildId": "",
+    "version": "",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "https://www.mediafire.com/file/hmk75dhehrh7wpp/aa2s.7z/file",
+    "links": []
   }
 ]
