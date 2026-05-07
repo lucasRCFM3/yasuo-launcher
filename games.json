@@ -12855,13 +12855,28 @@
     "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/library_600x900.jpg",
     "buildId": "20246854",
     "version": "STEAM",
-    "exeName": "",
+    "exeName": "PummelParty.exe",
     "fixType": "OnlineFix",
     "onlineCrackUrl": "https://www.mediafire.com/file/gl0htirbeztlank/PUMMEL_PARTY_ON_CRACK.7z/file",
-    "onlineCrackFiles": [],
+    "onlineCrackFiles": [
+      "dlllist.txt",
+      "OnlineFix.ini",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "PummelParty_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "SteamOverlay64.dll",
+      "winmm.dll"
+    ],
     "offlineCrackUrl": "https://www.mediafire.com/file/q2t0ipbitemg8c7/PUMMEL_PARTY_OFF_CRACK.7z/file",
-    "offlineCrackFiles": [],
-    "size": null,
+    "offlineCrackFiles": [
+      "PummelParty_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "steam_appid.txt",
+      "steam_settings\\achievements.json",
+      "steam_settings\\force_account_name.txt",
+      "steam_settings\\force_language.txt",
+      "steam_settings\\stats.txt"
+    ],
+    "size": 2321039646,
     "savePaths": [],
     "manifestUrl": "https://www.mediafire.com/file/32t9bzgguhjjedf/q0io.7z/file",
     "links": [
