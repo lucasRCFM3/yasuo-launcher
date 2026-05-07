@@ -673,6 +673,28 @@
     ]
   },
   {
+    "uniqueId": "829660_STEAM_22217350",
+    "appId": "829660",
+    "name": "No Time to Relax",
+    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/header.jpg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/library_600x900.jpg",
+    "buildId": "22217350",
+    "version": "STEAM",
+    "exeName": "",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "https://www.mediafire.com/file/hmk75dhehrh7wpp/aa2s.7z/file",
+    "links": [
+      "https://www.mediafire.com/file/3ajjs5kt9df7bgk/chunk_0.dat/file",
+      "https://www.mediafire.com/file/9c33nfe58kn2cl8/chunk_1.dat/file"
+    ]
+  },
+  {
     "uniqueId": "268910_STEAM_20241530",
     "appId": "268910",
     "name": "Cuphead",
@@ -16559,28 +16581,6 @@
       "https://www.mediafire.com/file/yxqeomazv24lbip/chunk_635.dat/file",
       "https://www.mediafire.com/file/grg7irv1utb4l0n/chunk_636.dat/file",
       "https://www.mediafire.com/file/5ybn6zt0ubsebve/chunk_637.dat/file"
-    ]
-  },
-  {
-    "uniqueId": "829660_STEAM_22217350",
-    "appId": "829660",
-    "name": "No Time to Relax",
-    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/header.jpg",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/829660/library_600x900.jpg",
-    "buildId": "22217350",
-    "version": "STEAM",
-    "exeName": "",
-    "fixType": "",
-    "onlineCrackUrl": "",
-    "onlineCrackFiles": [],
-    "offlineCrackUrl": "",
-    "offlineCrackFiles": [],
-    "size": null,
-    "savePaths": [],
-    "manifestUrl": "https://www.mediafire.com/file/hmk75dhehrh7wpp/aa2s.7z/file",
-    "links": [
-      "https://www.mediafire.com/file/3ajjs5kt9df7bgk/chunk_0.dat/file",
-      "https://www.mediafire.com/file/9c33nfe58kn2cl8/chunk_1.dat/file"
     ]
   }
 ]
