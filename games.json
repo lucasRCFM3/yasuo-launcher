@@ -16582,5 +16582,23 @@
     "size": null,
     "uniqueId": "3321460__",
     "version": ""
+  },
+  {
+    "uniqueId": "559650__",
+    "appId": "559650",
+    "name": "Witch It",
+    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/559650/header.jpg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/559650/library_600x900.jpg",
+    "buildId": "",
+    "version": "",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "https://www.mediafire.com/file/0k5urbd38qucncs/jo46.7z/file",
+    "links": []
   }
 ]
