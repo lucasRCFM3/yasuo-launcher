@@ -6576,7 +6576,7 @@
     "appId": "1245620",
     "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
     "buildId": "",
-    "exeName": "",
+    "exeName": "unins000.exe",
     "fixType": "",
     "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
     "links": [
@@ -6945,7 +6945,7 @@
     "onlineCrackFiles": [],
     "onlineCrackUrl": "",
     "savePaths": [],
-    "size": null,
+    "size": 74763666772,
     "uniqueId": "1245620__",
     "version": ""
   },
