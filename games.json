@@ -720,10 +720,10 @@
     "buildId": "20241530",
     "version": "STEAM",
     "exeName": "Cuphead.exe",
-    "fixType": "",
-    "onlineCrackUrl": "",
+    "fixType": "OnlineFix",
+    "onlineCrackUrl": "https://www.mediafire.com/file/czu7rt5enmzcyqi/CUPHEAD_ON_CRACK.7z/file",
     "onlineCrackFiles": [],
-    "offlineCrackUrl": "",
+    "offlineCrackUrl": "https://www.mediafire.com/file/sgounryqxy4t8fc/CUPHEAD_OFF_CRACK.7z/file",
     "offlineCrackFiles": [],
     "size": 5794043775,
     "savePaths": [
