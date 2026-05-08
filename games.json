@@ -16619,5 +16619,23 @@
       "https://www.mediafire.com/file/grg7irv1utb4l0n/chunk_636.dat/file",
       "https://www.mediafire.com/file/5ybn6zt0ubsebve/chunk_637.dat/file"
     ]
+  },
+  {
+    "uniqueId": "3164500__",
+    "appId": "3164500",
+    "name": "Schedule I",
+    "bannerUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/header.jpg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/library_600x900.jpg",
+    "buildId": "",
+    "version": "",
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
+    "size": null,
+    "savePaths": [],
+    "manifestUrl": "",
+    "links": []
   }
 ]
