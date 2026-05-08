@@ -726,7 +726,9 @@
     "offlineCrackUrl": "",
     "offlineCrackFiles": [],
     "size": 5794043775,
-    "savePaths": [],
+    "savePaths": [
+      "%APPDATA%\\Cuphead"
+    ],
     "manifestUrl": "https://www.mediafire.com/file/6luvqsf64v1tpqf/c3ba.7z/file",
     "links": [
       "https://www.mediafire.com/file/9xqjlpfa310om03/chunk_0.dat/file",
