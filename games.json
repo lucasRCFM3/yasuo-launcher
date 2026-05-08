@@ -498,29 +498,11 @@
     "buildId": "20241530",
     "version": "STEAM",
     "exeName": "Cuphead.exe",
-    "fixType": "OnlineFix",
-    "onlineCrackUrl": "https://www.mediafire.com/file/czu7rt5enmzcyqi/CUPHEAD_ON_CRACK.7z/file",
-    "onlineCrackFiles": [
-      "Cuphead_Data\\Plugins\\steam_api64.dll",
-      "dlllist.txt",
-      "OnlineFix.ini",
-      "OnlineFix.url",
-      "OnlineFix64.dll",
-      "SteamOverlay64.dll",
-      "steam_api64.dll",
-      "winmm.dll"
-    ],
-    "offlineCrackUrl": "https://www.mediafire.com/file/sgounryqxy4t8fc/CUPHEAD_OFF_CRACK.7z/file",
-    "offlineCrackFiles": [
-      "Cuphead_Data\\Plugins\\steam_api64.dll",
-      "steam_api64.dll",
-      "steam_appid.txt",
-      "steam_settings\\achievements.json",
-      "steam_settings\\DLC.txt",
-      "steam_settings\\force_account_name.txt",
-      "steam_settings\\force_language.txt",
-      "steam_settings\\stats.txt"
-    ],
+    "fixType": "",
+    "onlineCrackUrl": "",
+    "onlineCrackFiles": [],
+    "offlineCrackUrl": "",
+    "offlineCrackFiles": [],
     "size": 5794043775,
     "savePaths": [
       "%APPDATA%\\Cuphead"
